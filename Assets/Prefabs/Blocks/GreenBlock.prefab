@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 7812762496061693272}
   - component: {fileID: 3733836978867743513}
   - component: {fileID: 2221707931451204488}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: SingleElement (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -142,7 +142,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7533578936079932293}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: GreenBlock
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -181,7 +181,7 @@ GameObject:
   - component: {fileID: 4265455372900196698}
   - component: {fileID: 1420617268874445224}
   - component: {fileID: 3242928249457435460}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: SingleElement (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -314,7 +314,7 @@ GameObject:
   - component: {fileID: 2068296728828693480}
   - component: {fileID: 5146763631549289745}
   - component: {fileID: 3308567477847804489}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: SingleElement (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -447,7 +447,7 @@ GameObject:
   - component: {fileID: 4139423755505661567}
   - component: {fileID: 733564644069696600}
   - component: {fileID: 1561211917457493171}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: SingleElement
   m_TagString: Untagged
   m_Icon: {fileID: 0}
