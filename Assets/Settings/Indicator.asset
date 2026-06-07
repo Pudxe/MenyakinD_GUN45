@@ -14,20 +14,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   <Settings>k__BackingField:
   - Mult: 1
-    Text: "\u0411\u041B\u0410\u0422\u041D\u041E\u0419!"
+    Text: 
     Clip: {fileID: 0}
   - Mult: 2
     Text: "\u041A\u0410\u0415\u0424!"
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: 20d4a4029210cb54ea4394514d4901d0, type: 2}
   - Mult: 3
     Text: "\u0421\u0423\u041F\u0415\u0420!"
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: 571ea57b73303024c91aeedfc9d535f2, type: 2}
   - Mult: 4
     Text: "\u041A\u0420\u0423\u0422\u041E!"
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: 8f3c9efe646566c40badd8a4b9d33d18, type: 2}
   - Mult: 5
     Text: "\u0422\u0410 \u0422\u042B \u0428\u041E?!"
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: 3e913f5400822734aba6900efe546b41, type: 2}
   - Mult: 6
     Text: "\u041E\u0413\u041E\u041E\u041E\u041E\u041D\u042C!"
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: 75f463ac72df2c547a51dc5ddc653d42, type: 2}
