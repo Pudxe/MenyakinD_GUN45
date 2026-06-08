@@ -29,5 +29,5 @@ MonoBehaviour:
     Text: "\u0422\u0410 \u0422\u042B \u0428\u041E?!"
     Clip: {fileID: 7400000, guid: 3e913f5400822734aba6900efe546b41, type: 2}
   - Mult: 6
-    Text: "\u041E\u0413\u041E\u041E\u041E\u041E\u041D\u042C!"
+    Text: CARNAGE!!!
     Clip: {fileID: 7400000, guid: 75f463ac72df2c547a51dc5ddc653d42, type: 2}

@@ -130,6 +130,17 @@
                 },
                 {
                     "name": "",
+                    "id": "c9b3fa32-566c-424c-86a5-5e92dafec956",
+                    "path": "<Keyboard>/q",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Fire",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "0b287b6c-8e1b-40c7-9e44-8841c7e7c433",
                     "path": "<Mouse>/delta",
                     "interactions": "",
