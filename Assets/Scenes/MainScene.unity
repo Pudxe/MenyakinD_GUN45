@@ -324,6 +324,11 @@ Animation:
   m_PlayAutomatically: 0
   m_AnimatePhysics: 0
   m_CullingType: 0
+--- !u!1 &377280475 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8589833492215727731, guid: 8449a0cb81ae969439553f51718803b4, type: 3}
+  m_PrefabInstance: {fileID: 1464500237082445118}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &391316992 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5186985095708251071, guid: 3fe06c25f32e0c24aac42997c57b5823, type: 3}
@@ -384,6 +389,10 @@ PrefabInstance:
     - target: {fileID: 4478341443263058758, guid: 4f497ba3fcaf2cb419c3489bf8b3ff1e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4478341444012202095, guid: 4f497ba3fcaf2cb419c3489bf8b3ff1e, type: 3}
+      propertyPath: _prefab
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1272,7 +1281,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6399886002753135487, guid: 8449a0cb81ae969439553f51718803b4, type: 3}
       propertyPath: _horRotateSpeed
-      value: 5
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 6454967166663126086, guid: 8449a0cb81ae969439553f51718803b4, type: 3}
       propertyPath: m_Layer
@@ -1341,6 +1350,9 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 1205822064}
     m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8589833492215727731, guid: 8449a0cb81ae969439553f51718803b4, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1464500237082445133}
     - targetCorrespondingSourceObject: {fileID: 6326363735851502172, guid: 8449a0cb81ae969439553f51718803b4, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1464500237082445122}
@@ -1480,6 +1492,19 @@ MonoBehaviour:
   _liner: {fileID: 1464500237082445122}
   _count: 5
   _step: 0.5
+--- !u!114 &1464500237082445133
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 377280475}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5e26ff9a27948a4b491c756ab3fdb5a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _mult: 0.5
 --- !u!1001 &4115211781119893806
 PrefabInstance:
   m_ObjectHideFlags: 0
